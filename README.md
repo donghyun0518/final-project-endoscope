@@ -42,6 +42,6 @@
      - 위
        - Precision : 0.75 , Recall : 0.63, mAP50 : 0.69
 
-**5. 인터페이스 및 홈페이지 구현**
+**5. 인터페이스 및 홈페이지 구현**<br>
     [유튜브에서 시연 영상보기](https://www.youtube.com/watch?v=94uCWk3kKMI)
    
