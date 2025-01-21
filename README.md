@@ -5,10 +5,7 @@
         <img src="https://github.com/donghyun0518/final-project-endoscope/blob/main/%EC%8B%A4%EC%8B%9C%EA%B0%84%EB%82%B4%EC%8B%9C%EA%B2%BD%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 800px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
-<ul>
-    <li><strong>주제</strong>: 위/대장 내시경 실시간 병변 탐지 모델 개발</li>
-    <li><strong>기간</strong>: 2024.10 ~ 2024.11 (3인)</li>
-</ul>
+
 ## 🔍 프로젝트 개요
 - 목적 : 내시경 검사 중 병변을 실시간으로 탐지하여 의료진의 정확한 진단을 지원하고, 의료 행위의 효율성을 높이는 AI 기반 모델 개발.
 - 주제 : 위/대장 내시경 이미지 데이터를 활용해 병변을 실시간으로 탐지하는 딥러닝 모델 설계 및 구현.
