@@ -66,7 +66,7 @@
 - <strong style="font-size: 18px;">팀 구성</strong>: 3인
 
 ## ⚙️ 주요 수행 과정
-<strong style="font-size: 18px;">1. 문제 정의</strong>
+<strong style="font-size: 24px;">1. 문제 정의</strong>
 - 위/ 대장 내시경 검사 중 의료진의 병변 발견을 보조하는 실시간 AI 시스템 필요성 확인.
 - 병변의 종류(용종, 궤양, 암) 및 탐지 정확도를 주요 지표로 설정.
 
