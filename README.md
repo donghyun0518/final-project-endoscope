@@ -28,6 +28,7 @@
    - 모델 학습:
      - 데이터셋을 훈련, 검증, 테스트 데이터로 분할
      - 크로스엔트로피 손실 함수와 Adam 옵티마이저를 사용해 학습진행.
+     - CUDA를 활용하여 모델 학습진행.
    - 평가 지표 :
      - 정확도(Precision), 재현율(Recall), F1 Score 및 mAP50(Mean Average Precision)으로 성능 평가.
 
@@ -45,3 +46,6 @@
 **5. 인터페이스 및 홈페이지 구현**<br>
     [![유튜브에서 시연 영상보기](https://github.com/donghyun0518/final-project-endoscope/blob/main/%EB%82%B4%EC%8B%9C%EA%B2%BD%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%91%9C%EC%A7%80.png)](https://www.youtube.com/watch?v=94uCWk3kKMI)
    
+**6. 한계점**
+   - 병변의 종류가 적어 다양한 병변 탐지 불가능
+   - 개인 컴퓨터의 성능 제한으로 인해 더 큰 YOLO 모델에 적용하지 못함.
