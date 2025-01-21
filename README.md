@@ -43,10 +43,5 @@
        - Precision : 0.75 , Recall : 0.63, mAP50 : 0.69
 
 **5. 인터페이스 및 홈페이지 구현**
-<p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/94uCWk3kKMI" 
-    title="YouTube video player" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen></iframe>
-</p>
+    [유튜브에서 시연 영상보기](https://www.youtube.com/watch?v=94uCWk3kKMI)
    
