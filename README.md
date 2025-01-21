@@ -2,7 +2,7 @@
 <hr>
 <p style="text-align: center;">
     <a href="https://github.com/donghyun0518/final-project-endoscope/blob/main/%EB%82%B4%EC%8B%9C%EA%B2%BD%EB%AA%A8%EB%8D%B8pdf.pdf" target="_blank">
-        <img src="https://github.com/donghyun0518/final-project-endoscope/blob/main/%EC%8B%A4%EC%8B%9C%EA%B0%84%EB%82%B4%EC%8B%9C%EA%B2%BD%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 600px; border: 1px solid #c9d1d9; border-radius: 8px;">
+        <img src="https://github.com/donghyun0518/final-project-endoscope/blob/main/%EC%8B%A4%EC%8B%9C%EA%B0%84%EB%82%B4%EC%8B%9C%EA%B2%BD%ED%91%9C%EC%A7%80.png" alt="Project Cover" style="width: 800px; border: 1px solid #c9d1d9; border-radius: 8px;">
     </a>
 </p>
 
