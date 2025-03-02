@@ -47,6 +47,7 @@
 
 **5. 인터페이스 및 홈페이지 구현**<br>
     [![유튜브에서 시연 영상보기](https://github.com/donghyun0518/final-project-endoscope/blob/main/%EB%82%B4%EC%8B%9C%EA%B2%BD%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81%ED%91%9C%EC%A7%80.png)](https://www.youtube.com/watch?v=94uCWk3kKMI)
+    [이미지 클릭시 유튜브에서 시청 가능합니다.]
    
 **6. 한계점**
    - 병변의 종류가 적어 다양한 병변 탐지 불가능
